@@ -1,6 +1,7 @@
 # ipod-rpc
 personal Discord Rich Presence for iTunes/iPods
 Windows only, requires an application at the [Discord Developer Portal](https://discord.com/developers/home)
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 
 ![example of the rich presence on a Discord profile](https://file.garden/ZeMEWj685jeI5jh2/git/1.PNG)
 
