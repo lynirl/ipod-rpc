@@ -1,5 +1,5 @@
 # ipod-rpc
-my personal Discord Rich Presence for iTunes/iPods
+personal Discord Rich Presence for iTunes/iPods
 Windows only, requires an application at the [Discord Developer Portal](https://discord.com/developers/home)
 
 ![example of the rich presence on a Discord profile](https://file.garden/ZeMEWj685jeI5jh2/git/1.PNG)
