@@ -1,0 +1,10 @@
+certifi==2026.6.17
+charset-normalizer==3.4.9
+idna==3.18
+pillow==12.3.0
+pypresence==4.6.2
+python-dotenv==1.2.2
+pywin32==312
+requests==2.34.2
+setuptools==83.0.0
+urllib3==2.7.0
