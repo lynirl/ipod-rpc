@@ -23,6 +23,7 @@ CATBOX_USERHASH = os.environ.get("CATBOX_USERHASH", "").strip()
 #get the pictures from the dev portal
 SOURCE_IMAGES = {
     "Aqua": "aqua_ipod",
+    "Obsidian": "pauline_ipod",
     "Library": "itunes_library",
 }
 #self-explanatory
