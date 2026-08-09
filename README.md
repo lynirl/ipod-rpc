@@ -12,6 +12,13 @@ Windows only, requires an application at the [Discord Developer Portal](https://
 ## To do
 - optimization........
 
+## Compile into an exe
+Make sure you're in the project's venv first (if you use one) then execute this command in order to compile the exe using pyinstaller:
+```
+pyinstaller --onefile --console --hidden-import=pypresence --add-data ".env:." rpc.py
+```
+Use ```--noconsole``` option instead to not have a visible cmd window when launching
+
 ## Screenshots
 ![example of the rich presence on a Discord profile](https://file.garden/ZeMEWj685jeI5jh2/git/1.PNG)
 
